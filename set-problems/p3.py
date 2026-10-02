@@ -1,0 +1,1 @@
+# Find and print the numbers that appear in both lists.
